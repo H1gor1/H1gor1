@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 
-![Welcome](/github-welcome1.png?raw=true)
+![Welcome]
 ![Abou Me](/github-aboutme.png?raw=true)
 <br />
 <br />
