@@ -9,7 +9,6 @@
 
 ### Links
 - [LinkedIn](www.linkedin.com/in/higor-lino)
-- [Rocketseat](https://app.rocketseat.com.br/me/higor-gabriel-1592114498)
 - [Twitter](https://twitter.com/h1gorlino)
 - [Email](mailto:higorgabrieldev@gmail.com)
 
