@@ -8,7 +8,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h1gor1&show_icons=true&locale=en&layout=compact" alt="h1gor1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h1gor1&show_icons=true&locale=en&&hide=makefile,cmake,html&layout=compact" alt="h1gor1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h1gor1&show_icons=true&theme=dark&locale=en" alt="h1gor1" /></p>
 
